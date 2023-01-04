@@ -1,5 +1,7 @@
 package com.ds.qa.pages;
 
-public class SignoutPage {
+import com.ds.qa.base.TestBase;
+
+public class SignoutPage extends TestBase {
 
 }
