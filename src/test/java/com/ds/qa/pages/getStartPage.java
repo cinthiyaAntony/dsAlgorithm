@@ -7,7 +7,6 @@ import org.openqa.selenium.support.PageFactory;
 import com.ds.qa.base.TestBase;
 
 public class getStartPage extends TestBase {
-	// 1. pagefactory
 
 	@FindBy(xpath = "//button[contains(text(), 'Get Started')]")
 	WebElement st;

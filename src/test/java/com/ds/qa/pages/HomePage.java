@@ -61,7 +61,7 @@ public class HomePage extends TestBase {
 
 	public String verifyError() {
 		dropDown.click();
-		testutil.actionmethod(clickDs);
+		testutil.actionmethod(driver, clickDs);
 		return noLogin.getText();
 	}
 

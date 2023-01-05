@@ -21,6 +21,7 @@ public class getStartPageTest extends TestBase {
 	@BeforeMethod
 	public void setup() {
 		initialization();
+		log.info("GetStartedPage Test- initializing the browser for GetStartPage Testcases");
 		startPage = new getStartPage();
 	}
 
@@ -28,16 +29,20 @@ public class getStartPageTest extends TestBase {
 	public void pageTitle() {
 		title = startPage.validateDsPageTitle();
 		Assert.assertEquals(title, "Numpy Ninja");
+		log.info("GetStartedPage Test-GetStarted Page Title");
+
 	}
 
 	@Test
 	public void landHomePageTest() {
 		homePage = startPage.getStartClick();
+		log.info("GetStartedPage Test-Click on Get StartPage button and lands on Home Page");
 	}
 
 	@AfterMethod
 	public void tearDown() {
 		driver.quit();
+		log.info("GetStartedPage Test-close the browser for GetStartPage Testcases");
 	}
 
 }
