@@ -47,9 +47,9 @@ public class Testutil {
 		}
 	}
 
-	public void actionmethod(WebElement elementLocator) {
+	public void actionmethod(WebDriver driver, WebElement elementLocator) {
 		Actions tap = new Actions(driver);
-		tap.moveToElement(elementLocator).click();
+		tap.moveToElement(elementLocator).click().build().perform();
 
 	}
 
