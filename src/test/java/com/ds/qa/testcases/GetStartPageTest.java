@@ -6,15 +6,15 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 import com.ds.qa.base.TestBase;
+import com.ds.qa.pages.GetStartPage;
 import com.ds.qa.pages.HomePage;
-import com.ds.qa.pages.getStartPage;
 
-public class getStartPageTest extends TestBase {
-	public getStartPage startPage;
+public class GetStartPageTest extends TestBase {
+	public GetStartPage startPage;
 	public HomePage homePage;
 	public String title;
 
-	public getStartPageTest() {
+	public GetStartPageTest() {
 		super();
 	}
 
@@ -22,7 +22,8 @@ public class getStartPageTest extends TestBase {
 	public void setup() {
 		initialization();
 		log.info("GetStartedPage Test- initializing the browser for GetStartPage Testcases");
-		startPage = new getStartPage();
+		startPage = new GetStartPage();
+
 	}
 
 	@Test
@@ -42,7 +43,6 @@ public class getStartPageTest extends TestBase {
 	@AfterMethod
 	public void tearDown() {
 		driver.quit();
-		log.info("GetStartedPage Test-close the browser for GetStartPage Testcases");
-	}
 
+	}
 }
