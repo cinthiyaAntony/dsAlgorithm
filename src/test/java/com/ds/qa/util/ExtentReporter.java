@@ -13,10 +13,6 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 public class ExtentReporter {
 	public WebDriver driver;
 
-	public ExtentReporter(WebDriver driver) {
-		this.driver = driver;
-	}
-
 	public static ExtentReports generateExtentReporter() {
 		ExtentReports extentReport = new ExtentReports();
 		File extentReportFile = new File(

@@ -1716,3 +1716,12 @@
 [INFO ]2023-01-06 23:58:52.685 [main]TestBase-SigninPage Test - closing browser for registration testcases
 [INFO ]2023-01-06 23:58:55.146 [main]TestBase-SignOut Page - Initializing browser for SigninOut testcases
 [INFO ]2023-01-06 23:58:56.805 [main]TestBase-Signout Page Test - closing browser for registration testcases
+[INFO ]2023-01-07 00:14:53.979 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-07 00:14:54.103 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-07 00:14:56.350 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-07 00:14:56.839 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-07 00:15:00.952 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-07 00:15:01.489 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-07 00:15:01.872 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-07 00:15:03.659 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-07 00:15:03.907 [main]TestBase-HomePage -The current page title is Signin Page
