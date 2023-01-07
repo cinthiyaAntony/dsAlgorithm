@@ -654,3 +654,984 @@
 [INFO ]2023-01-05 13:18:54.027 [main]TestBase-Registration Test - Initializing browser for registration testcases
 [INFO ]2023-01-05 13:18:54.181 [main]TestBase-Registration Test - User currently on SigninPage
 [INFO ]2023-01-05 13:18:54.508 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:14:00.084 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 15:14:00.649 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-05 15:14:01.312 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-05 15:14:03.039 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 15:14:03.081 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 15:14:04.282 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-05 15:14:06.359 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 15:14:06.558 [main]TestBase-HomePage -expected DataStructure list and actual DataStructure list are same
+[INFO ]2023-01-05 15:14:07.416 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 15:14:09.278 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 15:14:09.318 [main]TestBase-HomePage -Total number of columns present in homepage is: 7
+[INFO ]2023-01-05 15:14:10.172 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 15:14:11.992 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 15:14:12.461 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-05 15:14:13.217 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 15:14:15.129 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 15:14:15.445 [main]TestBase-HomePage -Verfiy sginin link in home page 
+[INFO ]2023-01-05 15:14:15.912 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 15:14:17.842 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 15:14:17.894 [main]TestBase-HomePage -verfiying HomePage title
+[INFO ]2023-01-05 15:14:18.555 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 15:14:20.556 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 15:14:20.854 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-05 15:14:21.735 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 15:14:23.650 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 15:14:23.955 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-05 15:14:24.795 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 15:14:29.783 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:14:30.411 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:14:31.431 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:14:33.996 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:14:34.647 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:14:35.871 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:14:38.222 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:14:38.813 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:14:39.310 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:14:42.241 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:14:42.843 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:14:44.494 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:14:47.125 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:14:47.753 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:14:49.362 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:14:51.856 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:14:52.456 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:14:53.471 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:14:55.957 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:14:56.539 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:14:57.835 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:15:00.350 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:15:00.908 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:15:01.872 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:15:04.349 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:15:04.949 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:15:05.825 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:15:08.718 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:15:09.324 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:15:09.767 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:15:12.288 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:15:12.906 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:15:13.731 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:15:16.537 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:15:17.213 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:15:18.335 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:15:20.966 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:15:21.592 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 15:15:22.891 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 15:15:25.408 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 15:15:25.657 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-05 15:15:26.164 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 17:09:19.283 [main]TestBase-I am in onStart method Sanity test
+[INFO ]2023-01-05 17:09:22.492 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:09:22.544 [main]TestBase-pageTitle test is starting.
+[INFO ]2023-01-05 17:09:22.561 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 17:09:22.563 [main]TestBase-pageTitle test is succeed.
+[INFO ]2023-01-05 17:09:22.904 [main]TestBase-pageTitle test is failed.
+[INFO ]2023-01-05 17:09:23.065 [main]TestBase-I am in onFinish method Sanity test
+[INFO ]2023-01-05 17:15:56.007 [main]TestBase-I am in onStart method Sanity test
+[INFO ]2023-01-05 17:15:58.882 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:15:58.921 [main]TestBase-pageTitle test is starting.
+[INFO ]2023-01-05 17:15:58.939 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 17:15:58.944 [main]TestBase-pageTitle test is succeed.
+[INFO ]2023-01-05 17:15:59.272 [main]TestBase-pageTitle test is failed.
+[INFO ]2023-01-05 17:15:59.428 [main]TestBase-I am in onFinish method Sanity test
+[INFO ]2023-01-05 17:17:01.246 [main]TestBase-I am in onStart method Sanity test
+[INFO ]2023-01-05 17:17:04.224 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:17:04.277 [main]TestBase-pageTitle test is starting.
+[INFO ]2023-01-05 17:17:04.289 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 17:17:04.292 [main]TestBase-pageTitle test is succeed.
+[INFO ]2023-01-05 17:17:04.579 [main]TestBase-pageTitle test is failed.
+[INFO ]2023-01-05 17:17:06.408 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:17:06.412 [main]TestBase-landHomePageTest test is starting.
+[INFO ]2023-01-05 17:17:06.816 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-05 17:17:06.817 [main]TestBase-landHomePageTest test is succeed.
+[INFO ]2023-01-05 17:17:06.817 [main]TestBase-landHomePageTest test is failed.
+[INFO ]2023-01-05 17:17:09.808 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:17:09.811 [main]TestBase-verfiyclickDs test is starting.
+[INFO ]2023-01-05 17:17:10.399 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-05 17:17:10.400 [main]TestBase-verfiyclickDs test is succeed.
+[INFO ]2023-01-05 17:17:10.400 [main]TestBase-verfiyclickDs test is failed.
+[INFO ]2023-01-05 17:17:13.119 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:17:13.121 [main]TestBase-verifySigninTest test is starting.
+[INFO ]2023-01-05 17:17:13.380 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-05 17:17:13.380 [main]TestBase-verifySigninTest test is succeed.
+[INFO ]2023-01-05 17:17:13.381 [main]TestBase-verifySigninTest test is failed.
+[INFO ]2023-01-05 17:17:16.852 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:17:16.853 [main]TestBase-verifyRegTest test is starting.
+[INFO ]2023-01-05 17:17:17.112 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-05 17:17:17.112 [main]TestBase-verifyRegTest test is succeed.
+[INFO ]2023-01-05 17:17:17.112 [main]TestBase-verifyRegTest test is failed.
+[INFO ]2023-01-05 17:17:22.238 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 17:17:22.250 [main]TestBase-validateRegCredential test is starting.
+[INFO ]2023-01-05 17:17:23.076 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 17:17:23.076 [main]TestBase-validateRegCredential test is succeed.
+[INFO ]2023-01-05 17:17:23.076 [main]TestBase-validateRegCredential test is failed.
+[INFO ]2023-01-05 17:17:26.571 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 17:17:26.571 [main]TestBase-verfiySinginClick test is starting.
+[INFO ]2023-01-05 17:17:26.839 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-05 17:17:26.840 [main]TestBase-verfiySinginClick test is succeed.
+[INFO ]2023-01-05 17:17:26.840 [main]TestBase-verfiySinginClick test is failed.
+[INFO ]2023-01-05 17:17:26.957 [main]TestBase-I am in onFinish method Sanity test
+[INFO ]2023-01-05 17:31:52.841 [main]TestBase-I am in onStart method Sanity test
+[INFO ]2023-01-05 17:31:55.732 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:31:55.777 [main]TestBase-pageTitle test is starting.
+[INFO ]2023-01-05 17:31:55.788 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 17:31:55.794 [main]TestBase-pageTitle test is succeed.
+[INFO ]2023-01-05 17:31:56.122 [main]TestBase-pageTitle test is failed.
+[INFO ]2023-01-05 17:31:57.885 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:31:57.888 [main]TestBase-landHomePageTest test is starting.
+[INFO ]2023-01-05 17:31:58.266 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-05 17:31:58.266 [main]TestBase-landHomePageTest test is succeed.
+[INFO ]2023-01-05 17:31:58.267 [main]TestBase-landHomePageTest test is failed.
+[INFO ]2023-01-05 17:32:00.456 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:32:00.463 [main]TestBase-verfiyclickDs test is starting.
+[INFO ]2023-01-05 17:32:00.985 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-05 17:32:00.986 [main]TestBase-verfiyclickDs test is succeed.
+[INFO ]2023-01-05 17:32:00.986 [main]TestBase-verfiyclickDs test is failed.
+[INFO ]2023-01-05 17:32:03.240 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:32:03.250 [main]TestBase-verifySigninTest test is starting.
+[INFO ]2023-01-05 17:32:03.491 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-05 17:32:03.491 [main]TestBase-verifySigninTest test is succeed.
+[INFO ]2023-01-05 17:32:03.491 [main]TestBase-verifySigninTest test is failed.
+[INFO ]2023-01-05 17:32:05.875 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:32:05.885 [main]TestBase-verifyRegTest test is starting.
+[INFO ]2023-01-05 17:32:06.253 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-05 17:32:06.253 [main]TestBase-verifyRegTest test is succeed.
+[INFO ]2023-01-05 17:32:06.253 [main]TestBase-verifyRegTest test is failed.
+[INFO ]2023-01-05 17:32:12.077 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 17:32:12.079 [main]TestBase-validateRegCredential test is starting.
+[INFO ]2023-01-05 17:32:12.742 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 17:32:12.742 [main]TestBase-validateRegCredential test is succeed.
+[INFO ]2023-01-05 17:32:12.742 [main]TestBase-validateRegCredential test is failed.
+[INFO ]2023-01-05 17:32:17.338 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 17:32:17.342 [main]TestBase-verfiySinginClick test is starting.
+[INFO ]2023-01-05 17:32:17.798 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-05 17:32:17.798 [main]TestBase-verfiySinginClick test is succeed.
+[INFO ]2023-01-05 17:32:17.798 [main]TestBase-verfiySinginClick test is failed.
+[INFO ]2023-01-05 17:32:17.922 [main]TestBase-I am in onFinish method Sanity test
+[INFO ]2023-01-05 17:38:02.118 [main]TestBase-I am in onStart method Sanity test
+[INFO ]2023-01-05 17:38:04.913 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:38:04.954 [main]TestBase-pageTitle test is starting.
+[INFO ]2023-01-05 17:38:04.963 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 17:38:04.966 [main]TestBase-pageTitle test is succeed.
+[INFO ]2023-01-05 17:38:04.980 [main]TestBase-pageTitle test is failed.
+[INFO ]2023-01-05 17:38:06.659 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:38:06.662 [main]TestBase-landHomePageTest test is starting.
+[INFO ]2023-01-05 17:38:07.090 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-05 17:38:07.090 [main]TestBase-landHomePageTest test is succeed.
+[INFO ]2023-01-05 17:38:07.091 [main]TestBase-landHomePageTest test is failed.
+[INFO ]2023-01-05 17:38:09.300 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:38:09.307 [main]TestBase-verfiyclickDs test is starting.
+[INFO ]2023-01-05 17:38:09.825 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-05 17:38:09.825 [main]TestBase-verfiyclickDs test is succeed.
+[INFO ]2023-01-05 17:38:09.826 [main]TestBase-verfiyclickDs test is failed.
+[INFO ]2023-01-05 17:38:11.802 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:38:11.822 [main]TestBase-verifySigninTest test is starting.
+[INFO ]2023-01-05 17:38:12.051 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-05 17:38:12.051 [main]TestBase-verifySigninTest test is succeed.
+[INFO ]2023-01-05 17:38:12.052 [main]TestBase-verifySigninTest test is failed.
+[INFO ]2023-01-05 17:38:14.344 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:38:14.354 [main]TestBase-verifyRegTest test is starting.
+[INFO ]2023-01-05 17:38:14.649 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-05 17:38:14.649 [main]TestBase-verifyRegTest test is succeed.
+[INFO ]2023-01-05 17:38:14.649 [main]TestBase-verifyRegTest test is failed.
+[INFO ]2023-01-05 17:38:20.079 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 17:38:20.084 [main]TestBase-validateRegCredential test is starting.
+[INFO ]2023-01-05 17:38:20.744 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 17:38:20.744 [main]TestBase-validateRegCredential test is succeed.
+[INFO ]2023-01-05 17:38:20.744 [main]TestBase-validateRegCredential test is failed.
+[INFO ]2023-01-05 17:38:23.566 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 17:38:23.581 [main]TestBase-verfiySinginClick test is starting.
+[INFO ]2023-01-05 17:38:23.811 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-05 17:38:23.812 [main]TestBase-verfiySinginClick test is succeed.
+[INFO ]2023-01-05 17:38:23.812 [main]TestBase-verfiySinginClick test is failed.
+[INFO ]2023-01-05 17:38:23.906 [main]TestBase-I am in onFinish method Sanity test
+[INFO ]2023-01-05 17:48:50.425 [main]TestBase-I am in onStart method Sanity test
+[INFO ]2023-01-05 17:48:53.093 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:48:53.132 [main]TestBase-pageTitle test is starting.
+[INFO ]2023-01-05 17:48:53.149 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 17:48:53.154 [main]TestBase-pageTitle test is succeed.
+[INFO ]2023-01-05 17:48:53.432 [main]TestBase-pageTitle test is failed.
+[INFO ]2023-01-05 17:48:54.938 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:48:54.951 [main]TestBase-landHomePageTest test is starting.
+[INFO ]2023-01-05 17:48:55.303 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-05 17:48:55.304 [main]TestBase-landHomePageTest test is succeed.
+[INFO ]2023-01-05 17:48:55.304 [main]TestBase-landHomePageTest test is failed.
+[INFO ]2023-01-05 17:48:57.595 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:48:57.598 [main]TestBase-verfiyclickDs test is starting.
+[INFO ]2023-01-05 17:48:58.068 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-05 17:48:58.068 [main]TestBase-verfiyclickDs test is succeed.
+[INFO ]2023-01-05 17:48:58.069 [main]TestBase-verfiyclickDs test is failed.
+[INFO ]2023-01-05 17:53:46.736 [main]TestBase-I am in onStart method Sanity test
+[INFO ]2023-01-05 17:53:49.569 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:53:49.602 [main]TestBase-pageTitle test is starting.
+[INFO ]2023-01-05 17:53:49.614 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 17:53:49.618 [main]TestBase-pageTitle test is succeed.
+[INFO ]2023-01-05 17:53:49.893 [main]TestBase-pageTitle test is failed.
+[INFO ]2023-01-05 17:53:51.757 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 17:53:51.760 [main]TestBase-landHomePageTest test is starting.
+[INFO ]2023-01-05 17:53:52.184 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-05 17:53:52.184 [main]TestBase-landHomePageTest test is succeed.
+[INFO ]2023-01-05 17:53:52.185 [main]TestBase-landHomePageTest test is failed.
+[INFO ]2023-01-05 17:53:55.075 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:53:55.080 [main]TestBase-verfiyclickDs test is starting.
+[INFO ]2023-01-05 17:53:55.560 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-05 17:53:55.560 [main]TestBase-verfiyclickDs test is succeed.
+[INFO ]2023-01-05 17:53:55.561 [main]TestBase-verfiyclickDs test is failed.
+[INFO ]2023-01-05 17:53:58.783 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:53:58.785 [main]TestBase-verifySigninTest test is starting.
+[INFO ]2023-01-05 17:53:59.039 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-05 17:53:59.039 [main]TestBase-verifySigninTest test is succeed.
+[INFO ]2023-01-05 17:53:59.040 [main]TestBase-verifySigninTest test is failed.
+[INFO ]2023-01-05 17:54:01.657 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 17:54:01.670 [main]TestBase-verifyRegTest test is starting.
+[INFO ]2023-01-05 17:54:01.910 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-05 17:54:01.910 [main]TestBase-verifyRegTest test is succeed.
+[INFO ]2023-01-05 17:54:01.910 [main]TestBase-verifyRegTest test is failed.
+[INFO ]2023-01-05 17:54:08.355 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 17:54:08.357 [main]TestBase-validateRegCredential test is starting.
+[INFO ]2023-01-05 17:54:08.854 [main]TestBase-validateRegCredential test is failed.
+[INFO ]2023-01-05 17:54:08.860 [main]TestBase-I am in onFinish method Sanity test
+[INFO ]2023-01-05 18:15:51.036 [main]TestBase-I am in onStart method Sanity test
+[INFO ]2023-01-05 18:15:54.493 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 18:15:54.801 [main]TestBase-pageTitle test is starting.
+[INFO ]2023-01-05 18:15:54.814 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 18:15:54.816 [main]TestBase-pageTitle test is succeed.
+[INFO ]2023-01-05 18:15:54.822 [main]TestBase-pageTitle test is failed.
+[INFO ]2023-01-05 18:15:54.965 [main]TestBase-I am in onFinish method Sanity test
+[INFO ]2023-01-05 18:23:32.462 [main]TestBase-I am in onStart method Sanity test
+[INFO ]2023-01-05 18:23:35.980 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 18:23:36.292 [main]TestBase-pageTitle test is starting.
+[INFO ]2023-01-05 18:23:36.304 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 18:23:36.307 [main]TestBase-pageTitle test is succeed.
+[INFO ]2023-01-05 18:23:36.310 [main]TestBase-pageTitle test is failed.
+[INFO ]2023-01-05 18:23:36.482 [main]TestBase-I am in onFinish method Sanity test
+[INFO ]2023-01-05 19:08:38.485 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:08:38.633 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 19:08:40.202 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:08:42.068 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:08:42.481 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-05 19:08:43.566 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:08:46.006 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 19:08:46.571 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-05 19:08:47.157 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 19:08:49.383 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 19:08:49.769 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-05 19:08:51.026 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 19:09:07.827 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:08.573 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:10.023 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:14.310 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:14.948 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:15.761 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:17.966 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:18.597 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:19.184 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:21.821 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:22.494 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:23.250 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:25.642 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:26.293 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:26.703 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:30.154 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:30.730 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:31.236 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:33.541 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:34.171 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:34.557 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:36.913 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:37.508 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:37.909 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:40.241 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:40.876 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:41.335 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:43.787 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:44.386 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:44.781 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:47.596 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:48.163 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:48.750 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:52.091 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:52.767 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:53.315 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:09:57.251 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:09:58.580 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:09:59.448 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:10:05.337 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:10:05.780 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-05 19:10:06.073 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:27:53.745 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:27:53.806 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 19:27:54.631 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:27:56.322 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:27:56.759 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-05 19:27:57.974 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:28:00.071 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 19:28:00.562 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-05 19:28:01.433 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 19:28:03.473 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 19:28:03.766 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-05 19:28:04.510 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 19:28:06.412 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 19:28:06.686 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-05 19:28:07.331 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 19:28:12.102 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:28:12.708 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:28:13.530 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:28:15.930 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:28:16.527 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:28:17.664 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:28:20.420 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:28:21.037 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:28:21.896 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:28:24.638 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:28:25.270 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:28:26.198 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:28:28.898 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:28:29.467 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:28:30.346 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:28:32.980 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:28:33.737 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:28:34.758 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:28:37.332 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:28:37.948 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:28:38.775 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:28:41.254 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:28:41.832 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:28:42.876 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:28:45.267 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:28:45.860 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:28:46.925 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:28:49.303 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:28:49.915 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:28:50.387 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:28:54.821 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:28:55.788 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:28:57.799 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:29:02.766 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:29:03.369 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:29:04.956 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:29:07.143 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:29:07.673 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:29:09.074 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:29:11.723 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:29:11.974 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-05 19:29:14.271 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:45:09.834 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:45:09.886 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-05 19:45:11.012 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:45:12.408 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:45:12.887 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-05 19:45:13.276 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-05 19:45:15.116 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 19:45:15.649 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-05 19:45:16.036 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 19:45:17.945 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 19:45:18.178 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-05 19:45:18.841 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 19:45:20.738 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-05 19:45:21.061 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-05 19:45:21.497 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-05 19:45:25.578 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:45:26.152 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:45:26.856 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:45:29.299 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:45:29.876 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:45:30.381 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:45:33.540 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:45:34.084 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:45:34.469 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:45:37.848 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:45:38.361 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:45:38.693 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:45:40.994 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:45:41.459 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:45:42.222 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:45:44.414 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:45:44.903 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:45:45.398 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:45:47.438 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:45:47.989 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:45:48.424 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:45:51.966 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:45:52.502 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:45:52.870 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:45:55.278 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:45:55.839 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:45:56.352 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:45:58.471 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:45:59.059 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:45:59.441 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:46:01.777 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:46:02.326 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:46:02.945 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:46:06.210 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:46:06.759 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:46:07.138 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:46:09.428 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:46:10.003 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-05 19:46:10.567 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-05 19:46:14.374 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-05 19:46:14.729 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-05 19:46:16.784 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 10:54:21.386 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 10:54:41.735 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 10:54:43.697 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 10:58:01.534 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 10:58:02.076 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 10:58:02.536 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 10:58:05.022 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 10:58:05.536 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 10:58:05.968 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 10:58:08.014 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 10:58:08.393 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 10:58:08.814 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 10:58:10.773 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 10:58:11.141 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 10:58:11.578 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 10:58:13.719 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 10:58:14.258 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 10:58:14.691 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 10:58:17.615 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 10:58:18.164 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 10:58:18.545 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 10:58:20.775 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 10:58:21.277 [main]TestBase-SigninPage Test - NOT registered Successfully
+[INFO ]2023-01-06 10:58:21.893 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:00:31.627 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:00:32.485 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:00:33.001 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:00:35.351 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:00:35.948 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:00:36.400 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:00:38.319 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:00:38.726 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:00:39.288 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:00:42.572 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:00:42.966 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:00:43.395 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:00:46.700 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:00:47.259 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:00:47.571 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:00:49.552 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:00:50.099 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:00:50.644 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:00:52.697 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:00:53.475 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:00:54.027 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:00:56.879 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:00:58.111 [main]TestBase-SigninPage Test - user signin Successfully
+[INFO ]2023-01-06 11:00:58.572 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:28:22.447 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:28:23.051 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:28:23.496 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:28:25.718 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:28:26.288 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:28:26.713 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:28:30.310 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:28:30.667 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:28:31.038 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:28:33.158 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:28:33.506 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:28:33.946 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:28:37.359 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:28:37.883 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:28:38.194 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:28:40.305 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:28:40.845 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:28:41.239 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:28:43.257 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:28:43.822 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 11:28:44.220 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 11:28:46.458 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 11:28:47.238 [main]TestBase-SigninPage Test - user signin Successfully
+[INFO ]2023-01-06 11:28:47.718 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 16:44:28.959 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 16:44:29.005 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-06 16:44:29.972 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 16:44:31.432 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 16:44:31.851 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-06 16:44:32.723 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 16:44:34.560 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 16:44:35.052 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-06 16:44:36.150 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 16:44:37.929 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 16:44:38.154 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-06 16:44:38.788 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 16:44:40.711 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 16:44:40.973 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-06 16:44:41.674 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 16:44:44.404 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 16:44:44.621 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-06 16:44:45.445 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 16:44:47.968 [main]TestBase-SignOut Page - Initializing browser for SigninOut testcases
+[INFO ]2023-01-06 16:49:22.620 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 16:49:22.665 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-06 16:49:24.084 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 16:49:26.366 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 16:49:26.828 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-06 16:49:27.577 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 16:49:29.405 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 16:49:29.882 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-06 16:49:30.437 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 16:49:32.303 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 16:49:32.522 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-06 16:49:33.168 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 16:49:35.531 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 16:49:36.039 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-06 16:49:36.704 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 16:49:38.862 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 16:49:39.080 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-06 16:49:40.228 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 16:49:42.499 [main]TestBase-SignOut Page - Initializing browser for SigninOut testcases
+[INFO ]2023-01-06 18:07:45.858 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 18:07:45.922 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-06 18:07:47.653 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 18:07:49.477 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 18:07:49.902 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-06 18:07:50.654 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 18:07:52.597 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 18:07:53.098 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-06 18:07:53.720 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 18:07:55.752 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 18:07:56.029 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-06 18:07:56.919 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 18:07:59.014 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 18:07:59.255 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-06 18:08:00.108 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 18:08:02.509 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 18:08:02.734 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-06 18:08:03.853 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 18:08:06.192 [main]TestBase-SignOut Page - Initializing browser for SigninOut testcases
+[INFO ]2023-01-06 19:01:16.262 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 19:01:16.326 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-06 19:01:17.181 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 19:01:18.816 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 19:01:19.253 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-06 19:01:20.305 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 19:01:22.433 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 19:01:22.903 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-06 19:01:23.772 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 19:01:25.959 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 19:01:26.363 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-06 19:01:27.304 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 19:01:29.429 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 19:01:29.824 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-06 19:01:30.530 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 19:01:32.999 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:01:33.219 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-06 19:01:34.059 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:01:36.592 [main]TestBase-SignOut Page - Initializing browser for SigninOut testcases
+[INFO ]2023-01-06 19:32:17.443 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:32:17.713 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-06 19:32:19.258 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:33:44.837 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:33:45.416 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:33:45.908 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:33:47.899 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:33:48.492 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:33:48.928 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:33:52.262 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:33:52.661 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:33:53.088 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:33:55.153 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:33:55.526 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:33:55.974 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:33:58.106 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:33:58.733 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:33:59.248 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:34:02.185 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:34:02.723 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:34:03.226 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:34:05.383 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:34:05.929 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:34:06.546 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:34:09.018 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:34:09.967 [main]TestBase-SigninPage Test - user signin Successfully
+[INFO ]2023-01-06 19:34:10.543 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:37:10.788 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:37:11.000 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-06 19:37:11.471 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:06.709 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:07.304 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:08.345 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:10.714 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:11.271 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:13.322 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:15.710 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:16.316 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:18.102 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:20.881 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:21.357 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:22.242 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:24.384 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:24.981 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:27.213 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:30.451 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:31.028 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:32.196 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:34.650 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:35.322 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:36.610 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:38.930 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:39.460 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:40.694 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:42.971 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:43.579 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:44.774 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:47.263 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:47.856 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:49.043 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:51.484 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:52.051 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:53.141 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:55.670 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:41:56.216 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:41:57.606 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:41:59.994 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:42:00.643 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:42:01.881 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:42:04.225 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:42:04.431 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-06 19:42:05.708 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:43:50.753 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 19:43:50.791 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-06 19:43:51.512 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 19:43:53.625 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 19:43:54.062 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-06 19:43:54.693 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 19:43:56.854 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 19:43:57.331 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-06 19:43:58.058 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 19:44:00.140 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 19:44:00.347 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-06 19:44:01.158 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 19:44:03.452 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 19:44:03.683 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-06 19:44:04.444 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 19:44:08.817 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:09.357 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:44:10.559 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:44:12.753 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:13.303 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:44:14.276 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:44:17.324 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:17.836 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:44:18.748 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:44:21.175 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:21.718 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:44:25.005 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:44:27.606 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:28.074 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:44:29.446 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:44:32.000 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:32.536 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:44:34.031 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:44:36.544 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:37.164 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:44:38.793 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:44:41.448 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:42.027 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:44:43.125 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:44:45.716 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:46.337 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:44:47.523 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:44:50.085 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:50.657 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:44:51.868 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:44:54.523 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:55.058 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:44:56.285 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:44:58.726 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:44:59.356 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:45:00.840 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:45:03.462 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:45:04.052 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 19:45:05.658 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:45:08.039 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:45:08.284 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-06 19:45:09.705 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:45:12.951 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:45:13.507 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:45:14.768 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:45:17.702 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:45:18.510 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:45:20.693 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:45:25.543 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:45:26.337 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:45:27.377 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:45:29.822 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:45:30.231 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:45:31.454 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:45:33.773 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:45:34.297 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:45:35.285 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:45:37.701 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:45:38.272 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:45:42.771 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:45:48.496 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:45:49.511 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 19:45:51.270 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:45:53.489 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 19:45:54.241 [main]TestBase-SigninPage Test - user signin Successfully
+[INFO ]2023-01-06 19:45:55.290 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 19:45:57.570 [main]TestBase-SignOut Page - Initializing browser for SigninOut testcases
+[INFO ]2023-01-06 20:45:43.248 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 20:45:43.337 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-06 20:45:45.892 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 20:45:47.584 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 20:45:48.051 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-06 20:45:48.976 [main]TestBase-GetStartedPage Test-close the browser for GetStartPage Testcases
+[INFO ]2023-01-06 20:45:50.923 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 20:45:51.390 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-06 20:45:52.604 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 20:45:54.542 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 20:45:54.805 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-06 20:45:56.853 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 20:45:58.936 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 20:45:59.177 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-06 20:46:00.242 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 20:46:04.934 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:05.469 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:06.273 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:08.515 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:09.165 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:10.104 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:12.470 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:13.093 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:14.142 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:16.644 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:17.221 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:18.497 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:21.264 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:21.868 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:23.428 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:25.912 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:26.480 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:27.574 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:30.066 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:30.632 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:31.512 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:34.113 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:34.687 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:35.832 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:38.311 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:38.903 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:39.949 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:42.419 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:42.978 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:44.259 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:46.732 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:47.276 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:48.401 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:50.979 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:51.600 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:53.031 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:55.551 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:56.137 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 20:46:57.039 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:46:59.735 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:46:59.931 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-06 20:47:00.796 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:47:04.142 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:47:04.714 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 20:47:05.734 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:47:08.320 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:47:08.891 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 20:47:10.460 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:47:12.853 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:47:13.297 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 20:47:14.725 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:47:17.380 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:47:17.799 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 20:47:19.582 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:47:22.191 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:47:22.797 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 20:47:26.350 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:47:29.664 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:47:30.248 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 20:47:32.695 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:47:35.183 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:47:35.805 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 20:47:37.047 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:47:39.608 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 20:47:40.391 [main]TestBase-SigninPage Test - user signin Successfully
+[INFO ]2023-01-06 20:47:41.442 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 20:47:44.307 [main]TestBase-SignOut Page - Initializing browser for SigninOut testcases
+[INFO ]2023-01-06 20:47:49.508 [main]TestBase-Signout Page Test - closing browser for registration testcases
+[INFO ]2023-01-06 22:31:23.092 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 22:34:10.962 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 22:39:50.628 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 22:49:10.237 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:01:09.504 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:03:59.369 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:05:14.532 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:07:06.324 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:08:34.477 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:09:20.284 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:09:59.051 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:11:00.545 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:11:52.100 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:17:29.854 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:24:34.658 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:24:34.730 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-06 23:24:37.277 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 23:24:37.787 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-06 23:24:39.352 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 23:24:41.817 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 23:24:42.070 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-06 23:24:42.747 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 23:24:45.442 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 23:24:45.900 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-06 23:24:47.072 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 23:24:53.822 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:24:54.581 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:24:56.888 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:00.024 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:00.543 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:00.971 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:03.021 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:03.529 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:04.272 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:07.443 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:08.011 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:08.583 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:11.440 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:11.953 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:12.776 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:15.020 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:15.598 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:16.271 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:19.567 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:20.095 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:20.643 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:22.815 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:23.425 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:24.272 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:27.555 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:28.572 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:29.644 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:33.703 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:34.447 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:35.470 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:38.316 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:38.825 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:39.744 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:42.333 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:43.153 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:43.599 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:45.606 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:46.083 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:25:46.778 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:50.206 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:50.552 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-06 23:25:51.802 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:25:56.642 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:25:57.668 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:25:58.867 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:26:01.688 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:26:02.239 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:26:02.741 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:26:05.645 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:26:06.008 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:26:06.519 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:26:08.617 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:26:09.004 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:26:09.593 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:26:11.826 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:26:12.334 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:26:12.917 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:26:15.431 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:26:16.008 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:26:16.900 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:26:19.189 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:26:19.793 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:26:20.365 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:26:22.626 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:26:23.503 [main]TestBase-SigninPage Test - user signin Successfully
+[INFO ]2023-01-06 23:26:24.036 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:26:26.393 [main]TestBase-SignOut Page - Initializing browser for SigninOut testcases
+[INFO ]2023-01-06 23:26:28.124 [main]TestBase-Signout Page Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:32:37.034 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:32:37.159 [main]TestBase-GetStartedPage Test-GetStarted Page Title
+[INFO ]2023-01-06 23:32:39.799 [main]TestBase-GetStartedPage Test- initializing the browser for GetStartPage Testcases
+[INFO ]2023-01-06 23:32:40.178 [main]TestBase-GetStartedPage Test-Click on Get StartPage button and lands on Home Page
+[INFO ]2023-01-06 23:32:43.513 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 23:32:44.016 [main]TestBase-HomePage -verfiying can access datastructures in home page without signin
+[INFO ]2023-01-06 23:32:44.992 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 23:32:46.978 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 23:32:47.210 [main]TestBase-HomePage -The current page title is Signin Page
+[INFO ]2023-01-06 23:32:47.957 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 23:32:51.110 [main]TestBase-HomePage - Initializing browser for HomePage Testcases
+[INFO ]2023-01-06 23:32:51.322 [main]TestBase-The current page title is Registration page
+[INFO ]2023-01-06 23:32:52.566 [main]TestBase-HomePage -closing browser for homepage testcases
+[INFO ]2023-01-06 23:32:58.011 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:32:58.575 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:32:59.578 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:33:01.906 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:33:02.553 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:33:03.767 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:33:06.764 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:33:07.369 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:33:08.263 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:33:10.643 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:33:11.249 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:33:12.137 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:33:15.530 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:33:16.157 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:33:16.909 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:33:19.995 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:33:20.625 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:33:21.438 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:33:23.715 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:33:24.349 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:33:26.440 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:33:29.898 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:33:30.887 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:33:33.112 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:33:38.147 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:33:39.368 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:33:40.212 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:33:42.762 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:33:43.269 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:33:44.251 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:33:46.687 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:33:47.209 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:33:48.327 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:33:51.946 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:33:52.891 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:33:55.512 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:34:00.308 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:34:01.245 [main]TestBase-Registration Test - The user details NOT registered
+[INFO ]2023-01-06 23:34:04.030 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:34:07.656 [main]TestBase-Registration Test - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:34:07.867 [main]TestBase-Registration Test - User currently on SigninPage
+[INFO ]2023-01-06 23:34:08.814 [main]TestBase-Registration Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:34:11.185 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:34:11.825 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:34:13.202 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:34:15.943 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:34:16.483 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:34:16.933 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:34:18.936 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:34:19.313 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:34:20.333 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:34:23.693 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:34:24.159 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:34:24.572 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:34:27.949 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:34:28.567 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:34:29.129 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:34:31.590 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:34:32.165 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:34:33.270 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:34:35.668 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:34:36.239 [main]TestBase-SigninPage Test - invalid userdetails
+[INFO ]2023-01-06 23:34:37.057 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:34:39.887 [main]TestBase-SigininPage - Initializing browser for registration testcases
+[INFO ]2023-01-06 23:34:40.636 [main]TestBase-SigninPage Test - user signin Successfully
+[INFO ]2023-01-06 23:34:41.368 [main]TestBase-SigninPage Test - closing browser for registration testcases
+[INFO ]2023-01-06 23:34:43.587 [main]TestBase-SignOut Page - Initializing browser for SigninOut testcases
+[INFO ]2023-01-06 23:34:45.430 [main]TestBase-Signout Page Test - closing browser for registration testcases

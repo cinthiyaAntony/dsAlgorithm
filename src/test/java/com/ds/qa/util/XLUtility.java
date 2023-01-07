@@ -24,7 +24,7 @@ public class XLUtility extends TestBase {
 	public XSSFRow row;
 	public XSSFCell cell;
 	public CellStyle style;
-	String path = null;
+	String path = "/src/test/java/com/ds/qa/testdata/registrationdata.xlsx";
 
 	public XLUtility(String path) {
 		this.path = path;

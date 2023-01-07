@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Sanitysuite" guice-stage="DEVELOPMENT">
+
+	<listeners>
+		<listener class-name="com.ds.qa.listeners.MyListeners" />
+	</listeners>
+
+	<test thread-count="5" name="Sanity test" verbose="2">
+
+		<classes>
+
+			<class name="com.ds.qa.testcases.GetStartPageTest">
+				<methods>
+					<include name="pageTitle" />
+					<include name="landHomePageTest" />
+				</methods>
+			</class>
+
+			<class name="com.ds.qa.testcases.HomePageTest">
+				<methods>
+					<include name="verfiyclickDs" />
+					<include name="verifySigninTest" />
+					<include name="verifyRegTest" />
+				</methods>
+			</class>
+
+
+			<class name="com.ds.qa.testcases.RegistrationPageTest">
+				<methods>
+					<include name="validateRegCredential" />
+					<include name="verfiySinginClick" />
+				</methods>
+			</class>
+	
+	
+			<class name="com.ds.qa.testcases.SignInPageTest">
+				<methods>
+					<include name="validateSignCredential" />
+					<include name="verifyRegInSignin" />
+					<include name="verifyRegInSignin" />
+					
+				</methods>
+			</class>
+	          <class name="com.ds.qa.testcases.SignOutPageTest">
+	          	<parameter name="username" value="cinthiyaSDET85" />
+	<parameter name="password" value="Dsportal@123" />
+
+				<methods>
+					<include name="signoutTest" />
+				</methods>
+			</class>
+
+		</classes>
+	</test> <!-- Sanity test -->
+</suite> <!-- Sanity suite -->

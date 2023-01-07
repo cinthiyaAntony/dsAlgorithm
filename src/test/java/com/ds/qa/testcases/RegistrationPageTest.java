@@ -9,38 +9,39 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.ds.qa.base.TestBase;
+import com.ds.qa.pages.GetStartPage;
 import com.ds.qa.pages.HomePage;
 import com.ds.qa.pages.RegistrationPage;
-import com.ds.qa.pages.getStartPage;
+import com.ds.qa.pages.SigninPage;
 import com.ds.qa.util.Testutil;
 import com.ds.qa.util.XLUtility;
 
-public class registrationPageTest extends TestBase {
+public class RegistrationPageTest extends TestBase {
 
 	HomePage homePage;
-	getStartPage startPage;
+	GetStartPage startPage;
 	RegistrationPage regPage;
+	SigninPage signPage;
+
 	String sheetname = "Register";
 	static String title;
 	public Testutil testutil;
 
-	public registrationPageTest() {
+	public RegistrationPageTest() {
 		super();
 	}
 
 	@BeforeMethod
 	public void setup() {
 		initialization();
-		startPage = new getStartPage();
+		startPage = new GetStartPage();
 		homePage = new HomePage();
 		regPage = new RegistrationPage();
 		testutil = new Testutil(driver);
 		homePage = startPage.getStartClick();
 		homePage.regclick();
 		log.info("Registration Test - Initializing browser for registration testcases");
-
 	}
-
 	@DataProvider
 	public String[][] getRegTestData() throws IOException {
 		String path = "C:/Users/cinth/eclipse-workspace/DS-Algo/src/test/java/com/ds/qa/testdata/registrationdata.xlsx";
@@ -84,7 +85,6 @@ public class registrationPageTest extends TestBase {
 			}
 		}
 	}
-
 	@Test
 	public void verfiySinginClick() {
 		regPage.clickSignIn();

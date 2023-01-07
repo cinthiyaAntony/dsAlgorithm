@@ -10,18 +10,18 @@ import org.testng.annotations.Test;
 
 import com.ds.qa.base.TestBase;
 import com.ds.qa.pages.HomePage;
-import com.ds.qa.pages.getStartPage;
+import com.ds.qa.pages.GetStartPage;
 import com.ds.qa.util.Testutil;
 
-public class homePageTest extends TestBase {
+public class HomePageTest extends TestBase {
 
-	public getStartPage startPage;
+	public GetStartPage startPage;
 	public HomePage homePage;
 	public Testutil testutil;
 	public static String title;
 	public static String message;
 
-	public homePageTest() {
+	public HomePageTest() {
 		super();
 	}
 
@@ -29,7 +29,7 @@ public class homePageTest extends TestBase {
 	public void setup() {
 		initialization();
 		homePage = new HomePage();
-		startPage = new getStartPage();
+		startPage = new GetStartPage();
 		homePage = startPage.getStartClick();
 		testutil = new Testutil(driver);
 		log.info("HomePage - Initializing browser for HomePage Testcases");
